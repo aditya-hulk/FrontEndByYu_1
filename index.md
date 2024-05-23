@@ -21,4 +21,10 @@ https://github.com/aditya-hulk/FrontEndByYu_1.git
 ### 30 Capstone project
 ### 31 Instruction
 
+# Section-7 Intermediate CSS
+### 43. The Cascade Specificity and Inheritance
+### 44. Combining CSS Selectors
+### 45. CSS positioning
+
+
 
