@@ -320,7 +320,69 @@ https://appbrewery.github.io/css-display/
 ![alt text](image-90.png)
 ##### Par element ki width badh gyi to next line par javnega
 ![alt text](image-91.png)
+# 49. CSS Float
+![alt text](image-92.png)![alt text](image-93.png)![alt text](image-94.png)
+### Use float property to wrap text around 
+#### via float:left
+![alt text](image-95.png)
+#### via float:right
+![alt text](image-96.png)
+### About image and paragraph element
+![alt text](image-97.png)![alt text](image-98.png)
+### About clear property
+![alt text](image-99.png)
+#### aapko footer par float property set nhi chaiye
+![alt text](image-100.png)
+### What happen if you apply float property 
+![alt text](image-101.png)
+#### Observation: Abhi image ke baju mein paragrapy aur footer dono float ho rahe hai. But hume footer ko float nhi karwana. 
+### use clear property
+![alt text](image-102.png)
+### Eg: Target
+![alt text](image-103.png)
+#### float:left aur float:right se dono ek mek se alag ho javenge.
+![alt text](image-104.png)
+#### aur clear:both se footer niche aavenga
+![alt text](image-105.png)
+## Note: For Wrapping text around use float and for designing ke liye flexbox/grig/bootstrap etc.
+# 50. How to create a responsive website.
+## What do you mean by responsive website.
+![alt text](image-106.png)![alt text](image-107.png)
+### Go to this website
+https://tastybasics.nl/
+- humme isse chota-bada kare
+- ye website responsive na hone ke wajah se alag dikh raha hai.
+### 4 tarike se responsive website banate aati.
+![alt text](image-108.png)
+#### 1) Media query
+![alt text](image-109.png)![alt text](image-110.png)
+#### 2) via CSS Grid
+![alt text](image-111.png)![alt text](image-112.png)![alt text](image-113.png)![alt text](image-114.png)![alt text](image-115.png)
+- Grid ye 2D layout par apply hota hai.
+#### 3) via Flexbox
+![alt text](image-116.png)![alt text](image-117.png)![alt text](image-118.png)![alt text](image-119.png)
 
+- Flexbox is good for creating 1D layout
+- gist:=
+    - the main point or part
+- yaha sab ratio or proportion mein hai,
+    - so width change ho javengi dynamically
+    - ie responsive website.
+#### 4) BootStrap framework
+![alt text](image-120.png)![alt text](image-121.png) ![alt text](image-122.png)![alt text](image-123.png)![alt text](image-124.png)
+
+# 51. Media Queries
+![alt text](image-125.png)![alt text](image-126.png)
+### via eg
+![alt text](image-127.png)![alt text](image-128.png)
+### regarding max width
+![alt text](image-129.png)![alt text](image-130.png)
+### regaridng min-width
+![alt text](image-131.png)
+### Combination
+![alt text](image-132.png)![alt text](image-133.png)
+### About device
+![alt text](image-134.png)![alt text](image-135.png)
 
 
 

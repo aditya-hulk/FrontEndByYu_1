@@ -28,6 +28,10 @@ https://github.com/aditya-hulk/FrontEndByYu_1.git
 
 # Section-8 Advanced CSS
 ### 48. CSS Display
+### 49. CSS Float
+### 50. How to create a responsive website.
+### 51. Media Queries
+
 
 
 
