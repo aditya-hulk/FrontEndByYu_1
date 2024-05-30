@@ -26,5 +26,8 @@ https://github.com/aditya-hulk/FrontEndByYu_1.git
 ### 44. Combining CSS Selectors
 ### 45. CSS positioning
 
+# Section-8 Advanced CSS
+### 48. CSS Display
+
 
 

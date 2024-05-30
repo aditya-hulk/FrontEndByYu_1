@@ -290,7 +290,36 @@ and 150 is half of 300.
 from the left.
 - It would achieve exactly the same thing.
 
-
+# Section-8 Advanced CSS
+# 48. CSS Display
+![alt text](image-77.png)
+### Here we basically focus on website layout.
+![alt text](image-78.png)
+### what happen when display value is inline.
+![alt text](image-80.png)
+### About Display property
+![alt text](image-81.png)
+### What happen when display having block value?
+![alt text](image-82.png)
+### What happen when display having inline value?
+![alt text](image-83.png)
+### What happen when display having inline-block value?
+![alt text](image-84.png)![alt text](image-85.png)
+### What happen when display having none value?
+![alt text](image-86.png)
+### Go to this website
+https://appbrewery.github.io/css-display/ 
+### In website we have follwing things.
+![alt text](image-87.png)
+#### Regarding block u can change height and width
+![alt text](image-88.png)
+#### for inline - nothing is going to change
+![alt text](image-89.png)
+#### Regarding inline-block
+##### U can change height and width but same line par chalenga
+![alt text](image-90.png)
+##### Par element ki width badh gyi to next line par javnega
+![alt text](image-91.png)
 
 
 
