@@ -32,6 +32,15 @@ https://github.com/aditya-hulk/FrontEndByYu_1.git
 ### 50. How to create a responsive website.
 ### 51. Media Queries
 
+# Section-9 Flexbox
+### 54. Display Flex
+### 55. Flex Direction
+### 56. Flex-Layout
+### 57. Flex- sizing
+
+# Section-11
+### 64. What is bootstrap?
+
 
 
 

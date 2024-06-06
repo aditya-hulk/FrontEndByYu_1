@@ -385,5 +385,154 @@ https://tastybasics.nl/
 ![alt text](image-134.png)![alt text](image-135.png)
 
 
+# Section-9 Flexbox
+# 54. Display Flex
+![alt text](image-136.png)
+- Semantically :  
+  - in a way that is connected with the meaning of words, शब्दार्थ
+  - when people are talking about code being semantically correct :->  
+	- i.e they're referring to the code that accurately describes something.
+
+- Fidly : 
+  - requiring close attention to detail 
+- coveting-
+	 - लालच
+- Tweak 
+  - CHANGE SLIGHTLY
+  - to change something slightly, especially in order to make it more correct, effective, or suitable: 
+### ***Designing website layout***
+![alt text](image-137.png)![alt text](image-138.png)![alt text](image-139.png)![alt text](image-140.png)![alt text](image-141.png)
+### ***Problem in floats***
+![alt text](image-142.png)
+### ***When to use floats and when to use flexbox.***
+![alt text](image-143.png)
+## ***Design a website layout via flexbox.***
+![alt text](image-144.png)
+### ***Note***
+![alt text](image-145.png)![alt text](image-146.png)![alt text](image-147.png)
+## ***2 version of Flexbox container***
+## 1) flex
+![alt text](image-148.png)
+## 2) inline-flex
+![alt text](image-149.png)
+# 55. Flex Direction
+![alt text](image-150.png)
+### ***In Html***
+![alt text](image-151.png)
+### ***In FlexBox***
+![alt text](image-152.png)![alt text](image-153.png)
+## About Axis
+###  ***When flex-direction:row*** 
+![alt text](image-154.png)
+### ***When flex-direction:column***
+![alt text](image-155.png)
+***Note: All this stuff is important for customization***
+## ***Different behaviour of flex-basis property;***
+### ***1) When flex-direction:row and flex-basis:100px***
+![alt text](image-156.png)
+### ***2) When flex-direction:column and flex-basis:100px***
+![alt text](image-157.png)
+## ***Note:***
+- Flex-basis aur other property they are flexing along with main axis
+- Flex-direction : row 
+  - So flex-basis  ye width set karta
+- Flex-direction:column
+  - So flex-basis ye height set karta
+# 56. Flex-Layout
+![alt text](image-158.png)
+## ***Note:***
+- Jo bhi property aapko lagana hai usse sarvapratham check karlo
+  - ki Wo property Parent par lagni hai 
+  - ya ki child par
+### ***About terminology Parent-child***
+![alt text](image-159.png)
+## ***Properties***
+### ***1) Order***
+![alt text](image-160.png)![alt text](image-161.png)![alt text](image-162.png)![alt text](image-163.png)
+### ***2) flex-wrap***
+![alt text](image-164.png)
+### ***The defualt behaviour of flexbox***
+![alt text](image-165.png)
+### ***when flex-wrap:wrap***
+![alt text](image-166.png)
+### ***when flex-wrap:wrap and flex-wrap:wrap-reverse***
+![alt text](image-167.png)![alt text](image-168.png)
+- ***sort of meaning:***
+  - in a way
+### ***3)	Justify-content property:***
+- ***justify content meaning :***
+  - The justify-content property aligns the flexible container's items when the items do not use all available space on the main-axis (horizontally).
+  - सिद्ध करना
+### ***About justify content**
+![alt text](image-169.png)
+### ***About axis***
+![alt text](image-170.png)
+### ***In details***
+![alt text](image-171.png)![alt text](image-172.png)![alt text](image-173.png)![alt text](image-174.png)
+- ***godsend meaning:***
+  - something very lucky or helpful 
+### ***3)align-item property***
+![alt text](image-175.png)
+- abhi row based flexbox hai yadi column-based-flexbox hua
+  - so main axis at vertical
+  - and cross axis at horizontal
+- align item:
+  - ye property parent mane container par apply hoti hai.
+  - na ki child mane flexItems par
+### ***About viewport height***
+![alt text](image-176.png)![alt text](image-177.png)
+### ***Eg regarding align-items***
+![alt text](image-178.png)![alt text](image-179.png)
+![alt text](image-181.png)
+### Note:
+![alt text](image-180.png)![alt text](image-182.png)
+### ***About align-self property***
+![alt text](image-183.png)![alt text](image-184.png)
+- Overwhelmed:
+  - If something overwhelms someone or something, it is too much, or almost too much, for them to manage
+  - घबराया हुआ व्याकुल
+### ***4)	Align-content***
+![alt text](image-185.png)![alt text](image-186.png)![alt text](image-187.png)![alt text](image-188.png)![alt text](image-189.png)
+## ***CSS flexbox cheatsheet***
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+## ***Eg Understand***
+https://appbrewery.github.io/flex-layout/
+## ***Eg practice***
+![alt text](image-190.png)
+https://appbrewery.github.io/flexboxfroggy/
+# 57. Flex- sizing
+
+
+# Section-11
+# 64. What is bootstrap?
+![alt text](image-191.png)
+### ***Why it became so popular?***
+- Isme pre-made CSS files di hoti hai. 
+  - Aap unhe apne project mein include karo
+  - aur bootstrap ke pre-built components and styling use karo.
+- Bootstrap also provide 12-column layout system.
+  - That make really easy to create responsive website.
+- ***Ye Felxbox ke upar bana hai.***
+### Eg
+![alt text](image-192.png)![alt text](image-193.png)![alt text](image-194.png)
+### ***How to use bootstrap***
+![alt text](image-195.png)![alt text](image-196.png)
+### ***What is CDN?***
+- full form is  content delivery network
+- This are little hubs across the world and it knows where the user is located.
+- So jab bhi aap apni website load karonge aur aap try to access the particular css file jske andar
+Sare bootstrap ka code hai.
+- Ye closest location to server provide Karenga. Jaha se content aapko mil javenga.
+### Other things
+![alt text](image-197.png)![alt text](image-198.png)
+### another one
+![alt text](image-199.png)
+## ***Note*** 
+- jab bhi hume bootstrap ki style sheet ko override karna hai.
+- 1) inline stylesheet
+- 2) internal style sheet <style tag ke andar mein provide karo 
+- 3) aur yadi external style sheet hai.
+   Tab bootstrap ke link ke niche mein apni link provide karo.
+
 
 
