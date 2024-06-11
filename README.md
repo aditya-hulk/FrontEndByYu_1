@@ -533,6 +533,31 @@ Sare bootstrap ka code hai.
 - 2) internal style sheet <style tag ke andar mein provide karo 
 - 3) aur yadi external style sheet hai.
    Tab bootstrap ke link ke niche mein apni link provide karo.
-
-
-
+# 65. BootStrap layout
+![alt text](image-200.png)
+## ***Feature of Bootstrap:***
+### ***12 col layout system:***
+![alt text](image-201.png)
+- This sys is made up of 3 component.
+#### ***eg:***
+![alt text](image-202.png)![alt text](image-204.png)
+### ***Autofit:***
+![alt text](image-205.png)
+### ***Bootstrap container is used for creating responsive website.***
+![alt text](image-207.png)![alt text](image-208.png)
+### ***Sized column***
+![alt text](image-209.png)![alt text](image-210.png)
+### ***Bootstrap breakpoint***
+![alt text](image-211.png)![alt text](image-212.png)
+### eg: similarly of sm
+#### for mobile and above devices it take this type of width
+![alt text](image-213.png)
+#### but for narrow screen
+![alt text](image-214.png)
+### ***Multiple breakpoint***
+![alt text](image-215.png)
+### ***Mix and match***
+![alt text](image-216.png)
+### Practice eg
+https://appbrewery.github.io/bootstrap-layout/
+# 65. Bootstrap components

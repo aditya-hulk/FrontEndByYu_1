@@ -112,3 +112,13 @@
 	- Inline
 	- Internal 
 	- External par ye bootstrap ke link ke niche include karna tabhi work karnega.
+# 65. BootStrap layout
+## Feature of Bootstrap:
+- 12 col layout system.
+- Autofit
+- Bootstrap container is used for creating responsive website
+- Sized col
+- boostrap breakpoints
+- multiple breakpoint
+- mix and match
+# 65. Bootstrap components

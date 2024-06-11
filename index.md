@@ -40,6 +40,10 @@ https://github.com/aditya-hulk/FrontEndByYu_1.git
 
 # Section-11
 ### 64. What is bootstrap?
+### 65. BootStrap layout
+### 65. Bootstrap components
+
+
 
 
 
